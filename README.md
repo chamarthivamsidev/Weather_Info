@@ -1,2 +1,2 @@
-# Weather_Info Apllication
-You can get the weather forecast by typing any city name.
+# Weather_Info Application
+You can get the weekly weather forecast of any city from this application.
